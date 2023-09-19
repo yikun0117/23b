@@ -1,4 +1,4 @@
-  # 23b
+    # 23b
  # yikun
  ## yikun
  ### yikun
@@ -32,26 +32,25 @@ alert(s)
 ```
 
 ----
-Emphasism aka italicsm with asterisks or underscores strong emphasis, aka boldm with **asterisks** or **underscores** Combined emphasis with **asterisks and underscores**.
+Emphasism aka italicsm with asterisks or underscores strong emphasis, aka boldm with **asterisks** or **underscores** 
+Combined emphasis with **asterisks and underscores**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 ----
-First ordered list item
-Another item
+
+1.First ordered list item
+
+2.Another item
 ..* Unordered sub-list.
-Actual numbers don't matter, just that it's a number
+
+3.Actual numbers don't matter, just that it's a number
 ..1. Ordered sub-list
 ...2. 2nd
-And another item.
+
+4.And another item.
 ...* note 1
 ...* note 2
 *** note 3
 
-
-
-
-
-
-  
 ----
 Colons can be used to columns.
 | Tables | Are | Cool |
