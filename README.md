@@ -30,12 +30,21 @@ print(s)
 var s = "Javascript highlighhts ";
 alert(s)
 ```
+
 ----
-Emphasism aka italicsm with asterisks or underscores Strong emphasis, aka boldm with **asterisks** or **underscores** Combined emphasis with **asterisks and underscores**. Strikethrough uses two tildes. ~~Scratch this.~~
-
-
-
-
+Emphasism aka italicsm with asterisks or underscores strong emphasis, aka boldm with **asterisks** or **underscores** Combined emphasis with **asterisks and underscores**.
+Strikethrough uses two tildes. ~~Scratch this.~~
+----
+First ordered list item
+Another item
+..* Unordered sub-list.
+Actual numbers don't matter, just that it's a number
+..1. Ordered sub-list
+...2. 2nd
+And another item.
+...* note 1
+...* note 2
+*** note 3
 
 
 
