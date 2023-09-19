@@ -4,13 +4,13 @@
  ### yikun
  #### yikun
 ###### yikun
-######## yikun
+###### yikun
 
 # :smile:🚴‍♂️
 
-***
+----
 
-![NKUST](logo.png"NKUST")
+![NKUST](logo.png "NKUST")
 
 - [ ] to do list
 - [x] 1st thing
