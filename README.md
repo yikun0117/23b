@@ -32,9 +32,9 @@ alert(s)
 ```
 
 ----
-Emphasism aka italicsm with asterisks or underscores strong emphasis, aka boldm with **asterisks or underscores**
-Combined emphasis with **asterisks and underscores**.
-Strikethrough uses two tildes. ~~Scratch this.~~
+Emphasism aka italicsm with asterisks or underscores strong emphasis, aka boldm with  **asterisks or underscores** 
+Combined emphasis with  **asterisks and underscores** .
+Strikethrough uses two tildes. ~~Scratch this.~~ 
 ----
 
 1.First ordered list item  
