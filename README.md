@@ -25,4 +25,5 @@ print(s)
 
 ```js
 var s = "Javascript highlighhts ";
+alert(s)
 ```
