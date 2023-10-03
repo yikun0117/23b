@@ -28,6 +28,6 @@ gantt
 ```
 
 # pert 圖
-![pert](pert.png "PERT圖")
+![pert](Pert.png "PERT圖")
 # 關鍵路徑
 1 -> 2 -> 4 -> 6 -> 9 -> 11
